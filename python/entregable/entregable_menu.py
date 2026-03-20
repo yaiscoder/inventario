@@ -45,3 +45,6 @@ while opcion != 4:
     else:
      print("-"*30)
      print("¡Opción invalida, intentelo nuevamente!")
+
+# El objetivo de esta semana fue el implemntar el uso de ciclos y condiciones en el programa para poder añadir un menú con cada acción que el programa realiza.
+# Además de importar funciones ya definidas en otro archivo para hacer del documento más limpio.
